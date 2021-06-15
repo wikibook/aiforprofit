@@ -1,22 +1,16 @@
-# "역서명" 서포트 사이트 
+# 《돈 되는 파이썬 인공지능 프로그래밍》 
 
 <div align="left">
 <img src="images/book_cover.jpg" width="200">
 </div>
 
-위키북스에서 출간된 《돈 되는 파이썬 인공지능 프로그래밍》의 소스 코드를 제공하는 저장소입니다.
+위키북스에서 출간한 [《돈 되는 파이썬 인공지능 프로그래밍》](https://wikibook.co.kr/aiforprofit/)의 소스 코드를 제공하는 저장소입니다.
 　
 ## 실습용 주피터 노트북
  
-이 책의 실습용 주피터 노트북 파일은 아래에 있는 "**노트북 파일 일괄 다운로드 방법**"을 통해 한꺼번에 내려받을 수 있습니다. 그리고 이 책의 주피터 노트북 파일은 모두 구글에서 제공하는 "Google Colaboratory" 환경을 전제로 합니다.
+이 책의 실습용 주피터 노트북 파일은 모두 [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ko) 환경을 전제로 합니다.
 
-* [개별 노트북 파일 설명](refs/notebooks.md)
-
-* [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ko)
-
-
-아래의 순서대로 진행하면 노트북 파일을 내려받지 않고도 바로 실행할 수 있습니다. 각각의 파일에 담긴 실습 내용에 대해서는 [개별 노트북 파일 설명](refs/notebooks.md)을 참고하기 바랍니다.
-
+각각의 파일에 담긴 실습 내용에 대해서는 [개별 노트북 파일 설명](refs/notebooks.md)을 참고하기 바랍니다.
 
 ## 내용 소개
 
