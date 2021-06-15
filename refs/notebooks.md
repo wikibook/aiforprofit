@@ -19,9 +19,9 @@
 
 ---
 
-|章-절|タイトル|リンク  |補足  |
-|---|---|---|---|
-|추가사례 1|불량품, 질병 판정의 자동화 (이진 분류, 재현율)|[ac\_01\_heart\_disease.ipynb](../notebooks/ac_01_heart_disease.ipynb) | |
-|추가사례 2|이미지 판별하기(다중 분류)|[ac\_02\_nmist.ipynb](../notebooks/ac_02_nmist.ipynb) | |
-|부록 1.1|파이썬 입문|[c11\_python.ipynb](../notebooks/c11_python.ipynb) | |
-|6.2절|AutoAI 데이터 생성|[c31\_bank\_autoai\_data.ipynb](../notebooks/c31_bank_autoai_data.ipynb) | |
+|절|제목|링크  |
+|---|---|---|
+|추가사례 1|불량품, 질병 판정의 자동화 (이진 분류, 재현율)|[ac\_01\_heart\_disease.ipynb](../notebooks/ac_01_heart_disease.ipynb) |
+|추가사례 2|이미지 판별하기(다중 분류)|[ac\_02\_nmist.ipynb](../notebooks/ac_02_nmist.ipynb) |
+|부록 1.1|파이썬 입문|[c11\_python.ipynb](../notebooks/c11_python.ipynb) |
+|6.2절|AutoAI 데이터 생성|[c31\_bank\_autoai\_data.ipynb](../notebooks/c31_bank_autoai_data.ipynb) |
